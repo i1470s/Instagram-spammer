@@ -1,4 +1,4 @@
-spam bot built in python 3.8
+spam bot built in python 3.7 - 3.8
 
 Here how it works! 
 It takes words in libs/text.txt and sends them
@@ -8,4 +8,5 @@ Reqs
 
 Pyautogui
 
-This code is not going to be maintained
+This code is not going to be updated for new python versions
+
