@@ -1,6 +1,10 @@
-Instagram, spam bot python 3.8
+***spam bot built in python 3.8
 
-Reqs
+Here how it works! 
+It takes words in libs/text.txt and sends them
+This works on any dm
+
+***Reqs
 
 Pyautogui
 
