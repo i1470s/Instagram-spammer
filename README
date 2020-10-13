@@ -1,10 +1,10 @@
-# spam bot built in python 3.7 - 3.8
+spam bot built in python 3.7 - 3.8
 
 Here how it works! 
 It takes words in libs/text.txt and sends them
 This works on any dm
 
-# Reqs
+Reqs
 
 Pyautogui
 
