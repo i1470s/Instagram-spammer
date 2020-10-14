@@ -3,11 +3,10 @@ import pyautogui, time
 choice = input("""
 $Created by i1470s#0396$
 
+Made for brain dead skids with love <3
 
 [1] How it works this explains everything!
 [2] Spammer
-
-Made for brain dead skids with love <3
 
 Enter a option: """)
 
