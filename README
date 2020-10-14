@@ -1,12 +1,12 @@
 spam bot built in python 3.7 - 3.8
 
 Here how it works! 
-It takes words in libs/text.txt and sends them
-This works on any dm
+It takes words in libs/text.txt and types it out very fast
+This works on anything you can type on!
 
-Reqs
+Reqs 
 
-Pyautogui
+pip install Pyautogui
 
 This code is not going to be updated for new python versions
 
