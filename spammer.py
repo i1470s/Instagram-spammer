@@ -25,4 +25,5 @@ elif choice == '2':
     f = open("./libs/text.txt", 'r')
     for word in f:
         pyautogui.typewrite(word)
+        time.sleep(.2)
         pyautogui.press("enter")
